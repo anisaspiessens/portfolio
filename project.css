@@ -1,0 +1,218 @@
+body{
+}
+
+.homekader{
+	width: 100%;
+}
+
+
+.homeleft a:link {
+  display: block;
+  width: 250px;
+  color: white;
+  background: #DFA16E;
+  margin-bottom: 10px;
+  padding: 5px;
+  font-family: 'Ever After';
+  font-style: normal;
+  font-weight: normal;
+  src: local('Ever After'), url('EVERAFTE.woff') format('woff');
+  font-size: 28px;
+  letter-spacing: 2px;
+}
+
+.homeleft{
+  position: relative;
+  margin-top: 9em;
+  margin-left: 19em;
+}
+
+a{
+  color: white;
+  text-decoration: none;
+  margin-top: 0.5em;
+}
+
+.h:hover, .a:hover, .fp:hover, .c:hover { 
+    background-color: rgb(53, 51, 48);
+
+}
+
+
+.homeafb {
+  float: right;
+  position: relative;
+  margin-top: -23.2em;
+  margin-right: 19em;
+  border: none;
+}
+
+
+.homebottom{
+	display: block;
+	position: relative;
+	margin-left: 70em;
+	margin-top: -22em;
+	border: none;
+}
+
+
+
+
+
+.futureplans {
+	margin-left: 19em;
+ 	margin-top: -1em;
+ 	margin-right: 20em;
+
+}
+
+img{
+	border: 1px solid white;
+}
+
+.volgende{
+	float: right;
+	margin-top: -1em;
+
+}
+
+.go{ 
+margin-right: 4em;
+  margin-top: 2.5em;
+  height: 7.5em;
+  width: 2em;
+  border: none;
+  background-color: transparent;
+ color: rgb(239, 237, 233);
+  font-size: 35pt;
+}
+
+
+.footer{ 
+  width: 45em;
+  height: 85px;
+  background: rgb(196, 128, 112);
+  margin-left: 19em;
+  margin-top: 1em;
+
+	}
+
+h1{
+	font-family: 'Ever After';
+	color: white;
+	text-align: center;
+	padding: 0.4em;
+  	font-size: 35pt;
+
+}
+
+h2{
+	font-family: 'Ever After';
+	color: white;
+	text-align: left;
+	padding: 1.5em;
+  	font-size: 15pt;
+}
+
+h3{
+	font-family: Garamond;
+	color: rgb(221, 219, 212);
+	text-align: center;
+	font-size: 10pt;
+	margin-bottom: 1em;
+}
+
+p{
+	font-family: 'Garamond';
+	color: black;
+	font-size: 12pt;
+	text-align: justify;
+	line-height: 1.1em;
+	margin-top: 1em;
+}
+
+
+.about{
+	width: 54%;
+  	margin-left: 19em;
+  	margin-top: -3em;
+}
+
+.blok1{
+	width: 15em;
+  	height: 85px;
+  	background: rgb(53, 51, 48);
+  	margin-top: 1em
+}
+
+.blok2{
+	width: 27em;
+	height: 85px;
+	background: rgb(196, 128, 112);
+	margin-left: 18.5em;
+	margin-top: -5.3em;
+	margin-bottom: 1em;
+
+}
+
+.kaderklein{
+	margin-left: 18.5em;
+	margin-bottom: 2em;
+}
+
+.contact{
+  width: 45em;
+  height: 21em;
+  background: rgb(202, 183, 127);
+  margin-left: 19em;
+  margin-bottom: 2em;
+  margin-top: -2em;
+}
+
+
+.yourname, .email, .subject, .message, .submit{
+	background-color: transparent;
+	border: none;
+	font-family: Garamond;
+	font-size: 13pt;
+	color: white;
+}
+
+
+
+
+
+
+
+
+
+
+.nav{
+  margin-top: -7em;
+  margin-left: 22.5em;
+  margin-bottom: 10em;
+ 
+}
+
+.h2, .a2, .fp2, .c2{
+  color: white;
+  width: 5.5em;
+  background-color: rgb(223, 161, 110);
+  border: none;
+  padding: 6px;
+  font-family: 'Ever After';
+  font-size: 16pt;
+}
+
+
+.footerbottom{
+	display: block;
+	position: relative;
+	margin-left: 38em;
+  	margin-top: 2em;
+  	margin-bottom: 1em;
+	border: none;
+
+
+}
